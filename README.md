@@ -10,6 +10,12 @@
 
 I am a security researcher passionate about bridging the gap between **Artificial Intelligence (AI)** and **Cybersecurity**. My work focuses on automating vulnerability detection and enhancing threat intelligence using modern deep learning architectures.
 
+🏆 Honors & Awards
+
+🥉 **3rd Place** - National Student Startup Festival VI (May 2024).
+🥉 **3rd Place** - Student Startup Innovation Contest (Oct 2023)
+🏅 **5th Place** - Shentrepreneur Incubator Program (Oct 2024)
+
 ### 🛠️ Technical
 
 <table align="center">
