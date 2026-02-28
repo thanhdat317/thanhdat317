@@ -10,54 +10,82 @@
 
 I am a security researcher passionate about bridging the gap between **Artificial Intelligence (AI)** and **Cybersecurity**. My work focuses on automating vulnerability detection and enhancing threat intelligence using modern deep learning architectures.
 
-- 🤖 **Fields of Interest:** Agentic AI, Malware Analysis, Penetration Testing, and Web Security.
-- 🚀 **Current Project:** Developing **VulnAgent** — a Multi-agent system utilizing LLMs and architectures like VulCoBERT/VulCNN for automated source code vulnerability analysis.
-- 🎓 **Research Focus:** Deep Learning (ResNet, ViT, GANs) and Information Security Standards (ISO 27005, Risk Assessment).
-- 🛠️ **Favorite Stack:** Kali Linux, Burp Suite, GDB, IDA, TensorFlow, and Python.
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ Technical
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>Cybersecurity</strong></td>
-    <td align="center" width="25%"><strong>AI / Data Science</strong></td>
-    <td align="center" width="25%"><strong>Development</strong></td>
+    <td align="center" width="25%"><strong>Security & RE</strong></td>
+    <td align="center" width="25%"><strong>AI & Data Science</strong></td>
+    <td align="center" width="25%"><strong>Programming</strong></td>
+    <td align="center" width="25%"><strong>Tools & Cloud</strong></td>
   </tr>
   <tr>
     <td align="top">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/IDA_Pro-4B0082?style=flat-square&logo=hex-rays&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GDB-003366?style=flat-square&logo=gnu&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
     </td>
     <td align="top">
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
     </td>
     <td align="top">
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /><br>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
     <td align="top">
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🔥 Featured Projects
+### 📜 Professional Certifications
 
-- **🛡️ VulnAgent**: A Multi-agent vulnerability detection framework leveraging VulCoBERT and VulCNN to automate source code auditing.
-- **👁️ ResNet-Diabetes**: Early diabetes detection system using ResNet models to analyze medical imaging with high accuracy.
-- **📸 SteganoTool**: An image steganography suite implementing LSB and DCT techniques for secure data hiding and digital watermarking.
-- **🧩 ChatGPT LaTeX Extension**: A Chrome extension designed to convert ChatGPT's LaTeX output into Word-compatible formats seamlessly.
+* 🏆 **Samsung Pentester** (Advanced Security Specialist)
+* 🛡️ **Google Cybersecurity Professional Certificate**
+* ☁️ **AWS Certified Solutions Architect**
+* 🤖 **Naver AI Certification**
+* 🛠️ **Google IT Support Professional**
+
+---
+
+### 🌟 Research Platforms & Languages
+
+- **Data Science:** Active on **Kaggle** and **Google Colab** for model training and experimentation.
+- **Tools:** Proficient with **Jupyter Notebooks** and **IDA Pro** for reverse engineering.
+- **Communication:** Bilingual in **Vietnamese** (Native) and **English** (Professional).
+
+---
+### 🔥 Cybersecurity Projects
+
+#### 🤖 [VulnAgent: Autonomous Vulnerability Detection]
+A sophisticated Multi-Agent framework designed to automate the auditing of complex source code.
+- **Architecture:** Leverages **VulCoBERT** and **VulCNN** models within a multi-agent environment to identify logic flaws and security vulnerabilities.
+- **Tech Stack:** Python, Deep Learning, Agentic AI.
+
+#### 🔍 [EMBER2024: ML-Powered Malware Scanner](https://github.com/thanhdat317/Ember-PE-File-With-OpenIOC)
+A high-performance static analysis tool for Windows PE files (.exe, .dll, .sys).
+- **Core Engine:** Powered by **LightGBM** models trained on the massive EMBER2024 dataset using `thrember` and `pefile`.
+- **Key Features:** Provides maliciousness probability, integrates with **VirusTotal API**, and exports actionable **OpenIOC** reports for threat hunting.
+
+#### 🏛️ [Phishing URL Detection (IEEE Publication)](https://ieeexplore.ieee.org/document/11268813)
+Research paper exploring advanced phishing detection using deep learning.
+- **Innovation:** Utilized **GAN-based data augmentation** to enhance model performance and tackle imbalanced datasets in phishing detection.
+- **Outcome:** Significantly improved detection accuracy through optimized feature selection and synthetic data generation.
+
+#### 📸 [SteganoTool: Secure Information Hiding])
+A security-focused suite for hiding and extracting data within digital images.
+- **Keky Techniques:** Implements **LSB (Least Significant Bit)** and **DCT (Discrete Cosine Transform)** for covert communication and watermarking.
 
 ---
 
@@ -72,6 +100,6 @@ I am a security researcher passionate about bridging the gap between **Artificia
 
 <p align="center">
   <i>"Yesterday I was clever, So I wanted to change the world.
-Today I am wise, So I am changing myself.
+           Today I am wise, So I am changing myself.
 "</i>
 </p>
