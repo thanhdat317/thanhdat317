@@ -1,7 +1,7 @@
 # 🛡️ Hi there, I'm Thanh Dat (thanhdat317) 👨‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;AI+%26+Deep+Learning+Enthusiast;Building+VulnAgent...;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;AI+%26+Deep+Learning+Enthusiast;Building+VulnAgent...;Cyber+Security+Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -61,14 +61,7 @@ I am a security researcher passionate about bridging the gap between **Artificia
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhdat317&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat317&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Connect with me
 
