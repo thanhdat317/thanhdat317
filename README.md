@@ -1,4 +1,4 @@
-# 🛡️ Hi there, I'm Thanh Dat (thanhdat317) 👨‍💻
+# 🛡️ Hi there, I'm Thanh Dat (thanhdat317) 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;AI+%26+Deep+Learning+Enthusiast;Building+VulnAgent...;Cyber+Security+Engineer" alt="Typing SVG" />
@@ -68,22 +68,22 @@ I am a security researcher passionate about bridging the gap between **Artificia
 ---
 ### 🔥 Cybersecurity Projects
 
-#### 🤖 [VulnAgent: Autonomous Vulnerability Detection]
+#### 🤖 1.[VulnAgent: Autonomous Vulnerability Detection]
 A sophisticated Multi-Agent framework designed to automate the auditing of complex source code.
 - **Architecture:** Leverages **VulCoBERT** and **VulCNN** models within a multi-agent environment to identify logic flaws and security vulnerabilities.
 - **Tech Stack:** Python, Deep Learning, Agentic AI.
 
-#### 🔍 [EMBER2024: ML-Powered Malware Scanner](https://github.com/thanhdat317/Ember-PE-File-With-OpenIOC)
+#### 🔍 2.[EMBER2024: ML-Powered Malware Scanner](https://github.com/thanhdat317/Ember-PE-File-With-OpenIOC)
 A high-performance static analysis tool for Windows PE files (.exe, .dll, .sys).
 - **Core Engine:** Powered by **LightGBM** models trained on the massive EMBER2024 dataset using `thrember` and `pefile`.
 - **Key Features:** Provides maliciousness probability, integrates with **VirusTotal API**, and exports actionable **OpenIOC** reports for threat hunting.
 
-#### 🏛️ [Phishing URL Detection (IEEE Publication)](https://ieeexplore.ieee.org/document/11268813)
+#### 🏛️ 3.[Phishing URL Detection (IEEE Publication)](https://ieeexplore.ieee.org/document/11268813)
 Research paper exploring advanced phishing detection using deep learning.
 - **Innovation:** Utilized **GAN-based data augmentation** to enhance model performance and tackle imbalanced datasets in phishing detection.
 - **Outcome:** Significantly improved detection accuracy through optimized feature selection and synthetic data generation.
 
-#### 📸 [SteganoTool: Secure Information Hiding])
+#### 📸 4.[SteganoTool: Secure Information Hiding])
 A security-focused suite for hiding and extracting data within digital images.
 - **Keky Techniques:** Implements **LSB (Least Significant Bit)** and **DCT (Discrete Cosine Transform)** for covert communication and watermarking.
 
