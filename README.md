@@ -1,4 +1,4 @@
-# 🛡️ Hi there, I'm Thanh Dat (thanhdat317) 
+#  Hi there, I'm Thanh Dat 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;AI+%26+Deep+Learning+Enthusiast;Building+VulnAgent...;Cyber+Security+Engineer" alt="Typing SVG" />
@@ -85,7 +85,7 @@ Research paper exploring advanced phishing detection using deep learning.
 
 #### 📸 4.[SteganoTool: Secure Information Hiding])
 A security-focused suite for hiding and extracting data within digital images.
-- **Keky Techniques:** Implements **LSB (Least Significant Bit)** and **DCT (Discrete Cosine Transform)** for covert communication and watermarking.
+- **Techniques:** Implements **LSB (Least Significant Bit)** and **DCT (Discrete Cosine Transform)** for covert communication and watermarking.
 
 ---
 
